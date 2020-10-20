@@ -1,1 +1,3 @@
 # python-api-challenge
+In this activity, I utilized the Open Weather API, Pandas and Matplotlib to look at any correlations that may exist in the maximum temperature, humidity and cloudiness as compared to a city's latitude. 
+Then using the cities list generated in the first part of the activity, I built a heatmap using Google Maps API to display a few hotels in cities with my ideal weather conditions. 
